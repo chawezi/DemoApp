@@ -1,1 +1,3 @@
 # License Information
+This application is using a nano license, you are free to use this application any how
+you can sell it or use it locally..
